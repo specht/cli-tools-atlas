@@ -1,0 +1,2 @@
+extensions: ['.mzXML.zip', '.mzXML.gz', '.mzXML.bz2']
+description: mzXML (compressed)
