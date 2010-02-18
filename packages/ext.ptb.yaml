@@ -1,15 +1,15 @@
 title: Proteomic Toolbox
 
-version: 0.2.12
+version: 0.2.13
 
 link: http://ptb.origo.ethz.ch/
 
 download:
-  linux: 'ftp://gpf.uni-muenster.de/download/ptb/ptb-0.2.12-linux.tar.bz2'
-  win32: 'ftp://gpf.uni-muenster.de/download/ptb/ptb-0.2.12-win32.zip'
-  macx: 'ftp://gpf.uni-muenster.de/download/ptb/ptb-0.2.12-macx.tar.bz2'
+  linux: 'ftp://gpf.uni-muenster.de/download/ptb/ptb-0.2.13-linux.tar.bz2'
+  win32: 'ftp://gpf.uni-muenster.de/download/ptb/ptb-0.2.13-win32.zip'
+  macx: 'ftp://gpf.uni-muenster.de/download/ptb/ptb-0.2.13-macx.tar.bz2'
 
 path:
-  linux: ptb-0.2.12-linux
-  win32: ptb-0.2.12-win32
-  macx: ptb-0.2.12-macx
+  linux: ptb-0.2.13-linux
+  win32: ptb-0.2.13-win32
+  macx: ptb-0.2.13-macx
