@@ -1,0 +1,4 @@
+binary:
+  win32: translatedna.exe
+  linux: translatedna
+  macx: translatedna
