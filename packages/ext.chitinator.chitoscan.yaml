@@ -55,6 +55,13 @@ parameters:
     default: '0'
     display: row
     ignoreIfEmpty: true
+  - key: acetylationType
+    group: Search space
+    commandLine: --acetylationType
+    label: Acetylation type
+    type: enum
+    choices: [{'D': 'Deacetylation'}, {'R': 'Reacetylation'}]
+    default: 'D'
   - key: minDP
     group: Search space
     commandLine: --minDP
