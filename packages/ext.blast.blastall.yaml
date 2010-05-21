@@ -51,3 +51,9 @@ parameters:
     type: enum
     choices: [{'T': 'yes'}, {'F': 'no'}]
     commandLine: -F
+  - key: useCores
+    group: Tweaks
+    label: Number of CPU cores to use
+    type: int
+    commandLine: -a
+    default: 1
