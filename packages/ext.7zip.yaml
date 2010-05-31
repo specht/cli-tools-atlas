@@ -9,5 +9,5 @@ download:
   linux: 'http://surfnet.dl.sourceforge.net/sourceforge/p7zip/p7zip_4.58_x86_linux_bin.tar.bz2'
 
 path:
-  win32: 7za457
+  win32: ''
   linux: p7zip_4.58/bin
