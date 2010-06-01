@@ -5,9 +5,11 @@ version: 4.57
 link: http://www.7-zip.org
 
 download:
-  win32: 'http://mesh.dl.sourceforge.net/sourceforge/sevenzip/7za457.zip'
-  linux: 'http://surfnet.dl.sourceforge.net/sourceforge/p7zip/p7zip_4.58_x86_linux_bin.tar.bz2'
+  linux: 'http://downloads.sourceforge.net/project/p7zip/p7zip/9.04/p7zip_9.04_x86_linux_bin.tar.bz2'
+  macx: 'http://leifertin.info/app/eZ7z/past/eZ7zv1.653.zip'
+  win32: 'http://downloads.sourceforge.net/project/sevenzip/7-Zip/9.13/7za913.zip'
 
 path:
-  win32: 7za457
-  linux: p7zip_4.58/bin
+  linux: p7zip_9.04/bin
+  macx: 'Ez7z 1.653/Ez7z.app/Contents/Resources'
+  win32: ''
