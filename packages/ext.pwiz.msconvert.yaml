@@ -1,5 +1,7 @@
 binary:
   win32: msconvert.exe
+  linux: msconvert
+  macx: msconvert
 
 parameters:
   - key: mzPrecision
