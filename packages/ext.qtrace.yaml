@@ -1,15 +1,15 @@
 title: qTrace
 
-version: 0.3.0
+version: 0.3.2
 
 link: http://www.uni-muenster.de/hippler/software/qtrace/
 
 download:
-  linux: 'ftp://gpf.uni-muenster.de/download/qtrace/qtrace-0.3.0-linux.tar.bz2'
-  win32: 'ftp://gpf.uni-muenster.de/download/qtrace/qtrace-0.3.0-win32.zip'
-  macx: 'ftp://gpf.uni-muenster.de/download/qtrace/qtrace-0.3.0-macx.tar.bz2'
+  linux: 'ftp://gpf.uni-muenster.de/download/qtrace/qtrace-0.3.2-linux.tar.bz2'
+  win32: 'ftp://gpf.uni-muenster.de/download/qtrace/qtrace-0.3.2-win32.zip'
+  macx: 'ftp://gpf.uni-muenster.de/download/qtrace/qtrace-0.3.2-macx.tar.bz2'
 
 path:
-  linux: qtrace-0.3.0-linux
-  win32: qtrace-0.3.0-win32
-  macx: qtrace-0.3.0-macx
+  linux: qtrace-0.3.2-linux
+  win32: qtrace-0.3.2-win32
+  macx: qtrace-0.3.2-macx

@@ -1,15 +1,15 @@
 title: Proteomic Toolbox
 
-version: 0.2.13
+version: 0.2.15
 
 link: http://ptb.origo.ethz.ch/
 
 download:
-  linux: 'http://github.com/downloads/specht/ptb/ptb-0.2.13-linux.tar.bz2'
-  win32: 'http://github.com/downloads/specht/ptb/ptb-0.2.13-win32.zip'
-  macx: 'http://github.com/downloads/specht/ptb/ptb-0.2.13-macx.tar.bz2'
+  linux: 'http://github.com/downloads/specht/ptb/ptb-0.2.15-linux.tar.bz2'
+  win32: 'http://github.com/downloads/specht/ptb/ptb-0.2.15-win32.zip'
+  macx: 'http://github.com/downloads/specht/ptb/ptb-0.2.15-macx.tar.bz2'
 
 path:
-  linux: ptb-0.2.13-linux
-  win32: ptb-0.2.13-win32
-  macx: ptb-0.2.13-macx
+  linux: ptb-0.2.15-linux
+  win32: ptb-0.2.15-win32
+  macx: ptb-0.2.15-macx
