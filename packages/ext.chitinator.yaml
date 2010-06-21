@@ -1,15 +1,15 @@
 title: Chitinator
 
-version: 0.1.6
+version: 0.1.7
 
 link: http://www.uni-muenster.de/hippler/software/chitinator
 
 download:
-  linux: ftp://gpf.uni-muenster.de/download/chitinator/chitinator-0.1.6-linux.tar.bz2
-  win32: ftp://gpf.uni-muenster.de/download/chitinator/chitinator-0.1.6-win32.zip
-  macx: ftp://gpf.uni-muenster.de/download/chitinator/chitinator-0.1.6-macx.tar.bz2
+  linux: ftp://gpf.uni-muenster.de/download/chitinator/chitinator-0.1.7-linux.tar.bz2
+  win32: ftp://gpf.uni-muenster.de/download/chitinator/chitinator-0.1.7-win32.zip
+  macx: ftp://gpf.uni-muenster.de/download/chitinator/chitinator-0.1.7-macx.tar.bz2
 
 path:
-  linux: chitinator-0.1.6-linux
-  win32: chitinator-0.1.6-win32
-  macx: chitinator-0.1.6-macx
+  linux: chitinator-0.1.7-linux
+  win32: chitinator-0.1.7-win32
+  macx: chitinator-0.1.7-macx
