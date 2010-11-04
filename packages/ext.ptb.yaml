@@ -5,9 +5,9 @@ version: 0.2.22
 link: http://github.com/specht/ptb
 
 download:
-  linux: 'http://github.com/downloads/specht/ptb/ptb-0.2.22-linux.tar.bz2'
-  win32: 'http://github.com/downloads/specht/ptb/ptb-0.2.22-win32.zip'
-  macx: 'http://github.com/downloads/specht/ptb/ptb-0.2.22-macx.tar.bz2'
+  linux: 'http://www.uni-muenster.de/hippler/proteomatic/download/ptb-0.2.22-linux.tar.bz2'
+  win32: 'http://www.uni-muenster.de/hippler/proteomatic/download/ptb-0.2.22-win32.zip'
+  macx: 'http://www.uni-muenster.de/hippler/proteomatic/download/ptb-0.2.22-macx.tar.bz2'
 
 path:
   linux: ptb-0.2.22-linux
