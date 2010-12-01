@@ -1,2 +1,2 @@
-extensions: ['.fasta', '.fas', '.fa']
+extensions: ['.fasta', '.fas', '.fa', '.faa']
 description: FASTA
