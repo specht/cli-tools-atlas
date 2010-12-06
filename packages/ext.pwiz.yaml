@@ -5,9 +5,9 @@ version: 2.0
 link: http://proteowizard.sourceforge.net/
 
 download:
-  win32: http://sourceforge.net/projects/proteowizard/files/proteowizard/Archived%2520releases/2.0.1905/pwiz-bin-windows-x86-vc90-release-2_0_1905.tar.bz2
-  linux: http://sourceforge.net/projects/proteowizard/files/proteowizard/Archived%2520releases/2.0.1905/pwiz-bin-linux-x86-gcc43-release-2_0_1891.tar.bz2
-  macx: http://sourceforge.net/projects/proteowizard/files/proteowizard/Archived%2520releases/2.0.1905/pwiz-bin-darwin-x86-xgcc40-release-2_0_1905.tar.bz2
+  win32: http://mesh.dl.sourceforge.net/project/proteowizard/proteowizard/Archived%20releases/2.0.1905/pwiz-bin-windows-x86-vc90-release-2_0_1905.tar.bz2
+  linux: http://mesh.dl.sourceforge.net/project/proteowizard/proteowizard/Archived%20releases/2.0.1905/pwiz-bin-linux-x86_64-gcc42-release-2_0_1905.tar.bz2
+  macx: http://mesh.dl.sourceforge.net/project/proteowizard/proteowizard/Archived%20releases/2.0.1905/pwiz-bin-darwin-x86-xgcc40-release-2_0_1905.tar.bz2
 
 path:
   win32: ''
