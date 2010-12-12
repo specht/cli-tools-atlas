@@ -1,15 +1,15 @@
 title: Proteomic Toolbox
 
-version: 0.2.25
+version: 0.2.26
 
 link: http://github.com/specht/ptb
 
 download:
-  linux: 'http://www.uni-muenster.de/hippler/proteomatic/download/ptb-0.2.25-linux.tar.bz2'
-  win32: 'http://www.uni-muenster.de/hippler/proteomatic/download/ptb-0.2.25-win32.zip'
-  macx: 'http://www.uni-muenster.de/hippler/proteomatic/download/ptb-0.2.25-macx.tar.bz2'
+  linux: 'http://www.uni-muenster.de/hippler/proteomatic/download/ptb-0.2.26-linux.tar.bz2'
+  win32: 'http://www.uni-muenster.de/hippler/proteomatic/download/ptb-0.2.26-win32.zip'
+  macx: 'http://www.uni-muenster.de/hippler/proteomatic/download/ptb-0.2.26-macx.tar.bz2'
 
 path:
-  linux: ptb-0.2.25-linux
-  win32: ptb-0.2.25-win32
-  macx: ptb-0.2.25-macx
+  linux: ptb-0.2.26-linux
+  win32: ptb-0.2.26-win32
+  macx: ptb-0.2.26-macx
