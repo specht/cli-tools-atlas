@@ -1,3 +1,4 @@
 binary:
   win32: gpfindex.exe
   linux: gpfindex
+  macx: gpfindex

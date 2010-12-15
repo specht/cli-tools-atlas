@@ -1,3 +1,4 @@
 binary:
   win32: gpfbatch.exe
   linux: gpfbatch
+  macx: gpfbatch
