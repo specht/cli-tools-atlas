@@ -1,11 +1,15 @@
 title: ProteoWizard
 
-version: 2.1-2476
+version: 2.0
 
 link: http://proteowizard.sourceforge.net/
 
 download:
-  win32: "http://www.uni-muenster.de/hippler/proteomatic/mirrors/pwiz-bin-windows-x86-vc90-release-2_1_2476.tar.bz2"
+  win32: "http://switch.dl.sourceforge.net/project/proteowizard/proteowizard/Archived%20releases/2.0.1905/pwiz-bin-windows-x86-vc90-release-2_0_1905.tar.bz2"
+  linux: "http://switch.dl.sourceforge.net/project/proteowizard/proteowizard/Archived%20releases/2.0.1905/pwiz-bin-linux-x86_64-gcc42-release-2_0_1905.tar.bz2"
+  macx: "http://switch.dl.sourceforge.net/project/proteowizard/proteowizard/Archived%20releases/2.0.1905/pwiz-bin-darwin-x86-xgcc40-release-2_0_1905.tar.bz2"
 
 path:
   win32: ''
+  linux: ''
+  macx: ''
