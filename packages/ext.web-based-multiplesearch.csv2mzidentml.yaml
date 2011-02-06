@@ -1,4 +1,1 @@
-binary:
-  win32: 'FDRapp/src/Parsers/csv2mzIdentML.pl'
-  linux: 'FDRapp/src/Parsers/csv2mzIdentML.pl'
-  macx: 'FDRapp/src/Parsers/csv2mzIdentML.pl'
+binary: 'FDRapp/src/Parsers/csv2mzIdentML.pl'

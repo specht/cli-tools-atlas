@@ -1,15 +1,9 @@
 title: web-based-multiplesearch
 
-version: "beta"
+version: "beta-2011-02-06"
 
 link: 'http://code.google.com/p/web-based-multiplesearch/'
 
-download:
-  linux: 'http://web-based-multiplesearch.googlecode.com/files/FDRapp.zip'
-  macx: 'http://web-based-multiplesearch.googlecode.com/files/FDRapp.zip'
-  win32: 'http://web-based-multiplesearch.googlecode.com/files/FDRapp.zip'
+download: http://web-based-multiplesearch.googlecode.com/files/FDRapp.zip
 
-path:
-  linux: ''
-  macx: ''
-  win32: ''
+path: ''
