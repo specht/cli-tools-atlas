@@ -13,10 +13,16 @@ parameters:
     label: Precursor ion m/z tolerance
     type: float
     default: 2.0
-    suffix: Da
     decimals: 3
     min: 0.0
     step: 0.01
+  - key: precursorIonMassToleranceUnit
+    group: Masses and tolerance
+    commandLine: ''
+    label: Precursor ion m/z tolerance unit
+    type: enum
+    default: ''
+    choices: [{'': 'Da'}, {'-teppm': 'ppm'}]
   - key: productIonMassTolerance
     group: Masses and tolerance
     commandLine: -to
