@@ -6,10 +6,10 @@ link: http://www.7-zip.org
 
 download:
   linux: 'http://downloads.sourceforge.net/project/p7zip/p7zip/9.04/p7zip_9.04_x86_linux_bin.tar.bz2'
-  macx: 'http://leifertin.info/app/eZ7z/past/eZ7zv1.653.zip'
+  macx: 'http://www.proteomatic.org/download/cli-tools-atlas/eZ7zv2.04.zip'
   win32: 'http://downloads.sourceforge.net/project/sevenzip/7-Zip/9.13/7za913.zip'
 
 path:
   linux: p7zip_9.04/bin
-  macx: 'Ez7z 1.653/Ez7z.app/Contents/Resources'
+  macx: 'eZ7zv2.04/Ez7z.app/Contents/Resources'
   win32: ''
