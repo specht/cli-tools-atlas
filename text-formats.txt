@@ -3,6 +3,7 @@ ams
 csv
 dta
 fasta
+fastq
 gpf-queries
 html
 mgf

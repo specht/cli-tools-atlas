@@ -1,0 +1,2 @@
+extensions: ['.fastq', '.fq', '.txt']
+description: FASTQ
