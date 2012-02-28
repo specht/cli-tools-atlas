@@ -1,0 +1,4 @@
+binary:
+  win32: fastq-dump.exe
+  linux: fastq-dump
+  macx: fastq-dump
