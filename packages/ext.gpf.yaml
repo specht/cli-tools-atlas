@@ -5,9 +5,9 @@ version: 2.9
 link: http://github.com/specht/gpf
 
 download:
-  linux: http://www.uni-muenster.de/hippler/proteomatic/download/gpf-2.9-linux.tar.bz2
-  win32: http://www.uni-muenster.de/hippler/proteomatic/download/gpf-2.9-win32.zip
-  macx: http://www.uni-muenster.de/hippler/proteomatic/download/gpf-2.9-macx.tar.bz2
+  linux: http://localhost/gpf-2.9-1-g72d1207-linux.tar.bz2
+  win32: ''
+  macx: ''
 
 path:
   linux: gpf-2.9-linux
