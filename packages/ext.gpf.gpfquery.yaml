@@ -1,0 +1,4 @@
+binary:
+  win32: gpfquery.exe
+  linux: gpfquery
+  macx: gpfquery
