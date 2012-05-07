@@ -14,7 +14,6 @@ parameters:
     type: float
     default: 2.0
     decimals: 3
-    suffix: Da
     min: 0.0
     step: 0.01
   - key: precursorIonMassToleranceUnit
