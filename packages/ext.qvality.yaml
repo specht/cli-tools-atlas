@@ -1,0 +1,15 @@
+title: qvality
+
+version: "2.02"
+
+link: http://noble.gs.washington.edu/proj/qvality/
+
+download:
+  linux: 'ftp://gpf.uni-muenster.de/download/proteomatic-external-tools/qvality/qvality_2.02_linux.tar.bz2'
+  macx: 'ftp://gpf.uni-muenster.de/download/proteomatic-external-tools/qvality/qvality_2.02_macx.tar.bz2'
+  win32: 'ftp://gpf.uni-muenster.de/download/proteomatic-external-tools/qvality/qvality_2.02_win32.tar.bz2'
+
+path:
+  linux: ''
+  macx: ''
+  win32: ''

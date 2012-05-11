@@ -1,0 +1,4 @@
+binary:
+  win32: qvality.exe
+  linux: qvality
+  macx: qvality
