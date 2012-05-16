@@ -1,0 +1,4 @@
+binary:
+  win32: tandem.exe
+  linux: tandem.exe
+  macx: tandem

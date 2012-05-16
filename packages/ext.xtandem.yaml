@@ -1,0 +1,15 @@
+title: X!Tandem
+
+version: "2010.12.01.1"
+
+link: http://noble.gs.washington.edu/proj/qvality/
+
+download:
+  linux: 'ftp://gpf.uni-muenster.de/download/proteomatic-external-tools/xtandem/tandem_2010.12.01.1_linux.tar.gz'
+  macx: 'ftp://gpf.uni-muenster.de/download/proteomatic-external-tools/xtandem/tandem_2010.12.01.1_macx.tar.gz'
+  win32: 'ftp://gpf.uni-muenster.de/download/proteomatic-external-tools/xtandem/tandem_2010.12.01.1_win32.zip'
+
+path:
+  linux: ''
+  macx: ''
+  win32: ''
