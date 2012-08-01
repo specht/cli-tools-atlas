@@ -5,11 +5,16 @@ version: "2010.12.01.1"
 link: http://noble.gs.washington.edu/proj/qvality/
 
 download:
-  linux: 'ftp://gpf.uni-muenster.de/download/proteomatic-external-tools/xtandem/tandem_2010.12.01.1_linux.tar.gz'
-  macx: 'ftp://gpf.uni-muenster.de/download/proteomatic-external-tools/xtandem/tandem_2010.12.01.1_macx.tar.gz'
-  win32: 'ftp://gpf.uni-muenster.de/download/proteomatic-external-tools/xtandem/tandem_2010.12.01.1_win32.zip'
+#   linux: 'ftp://gpf.uni-muenster.de/download/proteomatic-external-tools/xtandem/tandem_2010.12.01.1_linux.tar.gz'
+#   macx: 'ftp://gpf.uni-muenster.de/download/proteomatic-external-tools/xtandem/tandem_2010.12.01.1_macx.tar.gz'
+#   win32: 'ftp://gpf.uni-muenster.de/download/proteomatic-external-tools/xtandem/tandem_2010.12.01.1_win32.zip'
+  linux: 'ftp://ftp.thegpm.org/projects/tandem/source/2010-12-01/tandem-linux-10-12-01-1.tar.gz'
+  macx: 'ftp://ftp.thegpm.org/projects/tandem/source/2010-12-01/tandem-osx-intel-10-12-01-1.tar.gz'
+  win32: 'ftp://ftp.thegpm.org/projects/tandem/source/2010-12-01/tandem-win32-10-12-01-1.zip'
 
 path:
-  linux: ''
-  macx: ''
-  win32: ''
+  linux: '/tandem-osx-intel-10-12-01-1/bin/'
+  macx: '/tandem-osx-intel-10-12-01-1/bin/'
+  win32: '/tandem-win32-10-12-01-1/bin/'
+
+
