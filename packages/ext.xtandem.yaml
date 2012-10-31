@@ -1,18 +1,17 @@
 title: X!Tandem
 
-version: "2010.12.01.1"
+version: "2012.10.01.1"
 
 link: http://www.thegpm.org/tandem/
 
 download:
-# the mac version from thegpm.org does not include any binaries, so we have our own ...
-  linux: 'ftp://ftp.thegpm.org/projects/tandem/source/2010-12-01/tandem-linux-10-12-01-1.tar.gz'
-  macx: 'ftp://gpf.uni-muenster.de/download/proteomatic-external-tools/xtandem/tandem_2010.12.01.1_macx.tar.gz'
-  win32: 'ftp://ftp.thegpm.org/projects/tandem/source/2010-12-01/tandem-win32-10-12-01-1.zip'
+  linux: 'ftp://ftp.thegpm.org/projects/tandem/source/tandem-linux-12-10-01-1.zip'
+  macx: 'ftp://ftp.thegpm.org/projects/tandem/source/tandem-osx-intel-12-10-01-1.zip'
+  win32: 'ftp://ftp.thegpm.org/projects/tandem/source/tandem-win-12-10-01-1.zip'
 
 path:
   linux: '/tandem-linux-10-12-01-1/bin/'
-  macx: ''
-  win32: '/tandem-win32-10-12-01-1/bin/'
+  macx: '/tandem-linux-10-12-01-1/bin/'
+  win32: '/tandem-win-12-10-01-1/bin/'
 
 
