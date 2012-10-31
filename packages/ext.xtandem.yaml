@@ -10,8 +10,8 @@ download:
   win32: 'ftp://ftp.thegpm.org/projects/tandem/source/tandem-win-12-10-01-1.zip'
 
 path:
-  linux: '/tandem-linux-10-12-01-1/bin/'
-  macx: '/tandem-linux-10-12-01-1/bin/'
+  linux: '/tandem-linux-12-10-01-1/bin/'
+  macx: '/tandem-linux-12-10-01-1/bin/'
   win32: '/tandem-win-12-10-01-1/bin/'
 
 
