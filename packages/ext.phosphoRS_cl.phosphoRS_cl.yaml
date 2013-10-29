@@ -1,7 +1,7 @@
 binary:
   win32: phosphoRS_cl.exe
-  linux: mono phosphoRS_cl.exe
-  macx: mono phosphoRS_cl.exe
+  linux: phosphoRS_cl.exe
+  macx: phosphoRS_cl.exe
 
 framework:
   linux: mono
