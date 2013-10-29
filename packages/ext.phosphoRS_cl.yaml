@@ -1,15 +1,15 @@
 title: phosphoRS_cl
 
-version: "0.1"
+version: "0.2"
 
 link: 
 
 download:
-  linux: 'ftp://gpf.uni-muenster.de/download/proteomatic-external-tools/phosphoRS_cl/phosphoRS_cl_0.1.zip'
-  macx: 'ftp://gpf.uni-muenster.de/download/proteomatic-external-tools/phosphoRS_cl/phosphoRS_cl_0.1.zip'
-  win32: 'ftp://gpf.uni-muenster.de/download/proteomatic-external-tools/phosphoRS_cl/phosphoRS_cl_0.1.zip'
+  linux: 'ftp://gpf.uni-muenster.de/download/proteomatic-external-tools/phosphoRS_cl/phosphoRS_cl_0.2.zip'
+  macx: 'ftp://gpf.uni-muenster.de/download/proteomatic-external-tools/phosphoRS_cl/phosphoRS_cl_0.2.zip'
+  win32: 'ftp://gpf.uni-muenster.de/download/proteomatic-external-tools/phosphoRS_cl/phosphoRS_cl_0.2.zip'
 
 path:
-  linux: 'phosphoRS_cl_0.1'
-  macx: 'phosphoRS_cl_0.1'
-  win32: 'phosphoRS_cl_0.1'
+  linux: 'phosphoRS_cl_0.2'
+  macx: 'phosphoRS_cl_0.2'
+  win32: 'phosphoRS_cl_0.2'
