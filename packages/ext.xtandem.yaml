@@ -1,17 +1,17 @@
 title: X!Tandem
 
-version: "2013.02.01"
+version: "2013.09.01"
 
 link: http://www.thegpm.org/tandem/
 
 download:
-  linux: 'ftp://ftp.thegpm.org/projects/tandem/source/tandem-linux-13-02-01-1.zip'
-  macx: 'ftp://ftp.thegpm.org/projects/tandem/source/tandem-osx-intel-13-02-01-1.zip'
-  win32: 'ftp://ftp.thegpm.org/projects/tandem/source/tandem-win-13-02-01-1.zip'
+  linux: 'ftp://ftp.thegpm.org/projects/tandem/source/tandem-linux-13-09-01-1.tar.gz'
+  macx: 'ftp://ftp.thegpm.org/projects/tandem/source/tandem-osx-13-09-01-1.zip'
+  win32: 'ftp://ftp.thegpm.org/projects/tandem/source/tandem-win-13-09-01-1.zip'
 
 path:
-  linux: '/tandem-linux-13-02-01-1/tandem-linux-13-02-01-1/bin/'
-  macx: '/tandem-osx-intel-13-02-01-1/bin/'
-  win32: '/tandem-win-13-02-01-1/bin/'
+  linux: '/tandem-linux-13-09-01-1/tandem-linux-13-09-01-1/bin/'
+  macx: '/tandem-osx-13-09-01-1/bin/'
+  win32: '/tandem-win-13-09-01-1/bin/'
 
 
